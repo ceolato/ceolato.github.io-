@@ -1,7 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ceolato/ceolato.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+Romain Ceolato is a Research Scientist of the Optronics Department at ONERA - University of Toulouse. His research interests cover different areas of light-scattering, in particular, lidar systems and their aerospace applications.
+Disciplines
+
+    OpticsElectromagnetismExperimental PhysicsEngineering PhysicsInstrumentation EngineeringOptical Engineering
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
